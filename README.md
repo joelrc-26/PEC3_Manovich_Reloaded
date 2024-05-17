@@ -1,19 +1,30 @@
 # PEC3_Manovich_Reloaded
-Recurso de aprendizaje de Cultura Digital
-Autor: Gonzalo Bautista García
+### Recurso de aprendizaje de Cultura Digital 
+
+
+Autor: Joel Rodríguez Cabra
+
 
 Fecha: 17-05-2024
 
-Cultura Digital
 
-Planteamiento
+
+
+## Planteamiento
+
+
 Estamos Re-planteando.
 
-Re-descubriendo la hibridacion: Discord
+
+## Re-descubriendo la hibridacion: Discord
+
 Estamos redescubriendo
 
-Re-descubriendo la hibridacion: Netflix
+
+
+## Re-descubriendo la hibridacion: Netflix
+
 Estamos redescubriendo
 
-Referencias y Bibliografía
-Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+
+### Referencias y Bibliografía
