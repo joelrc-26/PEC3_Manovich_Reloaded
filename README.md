@@ -7,7 +7,7 @@ Autor: Joel Rodríguez Cabra
 
 Fecha: 17-05-2024
 
-
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
 ## Planteamiento
 
@@ -32,4 +32,10 @@ Estamos redescubriendo
 Estamos redescubriendo
 
 
-## Referencias y Webgrafía
+## Referencias, Bibliografía y Webgrafía
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
