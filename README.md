@@ -5,13 +5,13 @@
 Autor: Joel Rodríguez Cabra
 
 
-Fecha: 17-05-2024
+Fecha: 22-05-2024
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
 ## Introducción
 
-En el mundo contemporáneo, la hibridación es un fenómeno omnipresente que impulsa la evolución de diversas industrias y tecnologías. Dos ejemplos notables de hibridación son Discord y Netflix, que han transformado radicalmente la comunicación social y el entretenimiento respectivamente. En este ensayo, exploraremos cómo estos dos servicios encarnan los principios de la hibridación con una perspectiva inspirada en la visión de Lev Manovich.
+Según Lev Manovich, la hibridación digital implica la combinación de diferentes medios y formas para crear nuevas prácticas culturales. En este ensayo, expongo dos ejemplos claros de hibridación: la plataforma de servicio de mensajería y chat de voz como es **Discord** y la plataforma de _streaming online_ como es **Netflix**.
 
 
 
@@ -31,11 +31,19 @@ Esta hibridación no solo ha democratizado la comunicación entre jugadores, sin
 ![image](https://github.com/joelrc-26/PEC3_Manovich_Reloaded/assets/170022436/a3d119e6-3361-497e-a7f3-b517bc3d403e)
 
 
-Estamos redescubriendo
+Netflix ha revolucionado la industria del entretenimiento al hibridar elementos de la televisión tradicional con la tecnología de streaming digital. Al adoptar "las gafas de Manovich" para analizar Netflix, podemos apreciar cómo combina la narrativa audiovisual clásica con algoritmos de recomendación y una interfaz de usuario intuitiva para ofrecer una experiencia de visualización altamente personalizada.
+
+La hibridación de Netflix se manifiesta en su capacidad para adaptar el consumo de contenido a las preferencias individuales de los usuarios. Los algoritmos de recomendación, impulsados por el análisis de datos y el aprendizaje automático, ofrecen sugerencias personalizadas basadas en el historial de visualización y las preferencias del usuario. Esta personalización no solo mejora la experiencia del usuario, sino que también redefine el concepto de programación televisiva al permitir el acceso bajo demanda a una amplia gama de contenido.
 
 
-## Referencias, Bibliografía y Webgrafía
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+## Conclusiones
+
+Discord y Netflix son ejemplos claros de cómo la hibridación impulsa la innovación en el panorama tecnológico moderno. Al combinar elementos de diferentes dominios, estas plataformas han transformado la forma en que nos comunicamos y consumimos el contenido digital. Al adoptar una perspectiva basada en los **principios de Lev Manovich**, se puede apreciar cómo estas innovaciones no solo reflejan las tendencias culturales y tecnológicas actuales, sino que también abren nuevas posibilidades para la creatividad y la expresión en el mundo digital.
+
+
+## Referencias y Bibliografía
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
 
 ----
