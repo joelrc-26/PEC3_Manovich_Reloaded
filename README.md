@@ -44,6 +44,11 @@ Discord y Netflix son ejemplos claros de cómo la hibridación impulsa la innova
 
 ## Referencias y Bibliografía
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Wikipedia. (2024). Discord. https://es.wikipedia.org/wiki/Discord
+* Web Oficial. (2024). Discord. [Official Site](https://discord.com/)
+* Wikipedia. (2024). Netflix. https://es.wikipedia.org/wiki/Netflix
+* Web Oficial en español. (2024). Netflix. [Sitio Oficial](https://www.netflix.com/es/)
+* Web Oficial. (2024). Markdown Guide. [How to use it?](https://www.markdownguide.org/)
 
 
 ----
