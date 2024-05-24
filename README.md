@@ -5,7 +5,7 @@
 Autor: Joel Rodríguez Cabra
 
 
-Fecha: 22-05-2024
+Fecha: 24-05-2024
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
